@@ -10,6 +10,6 @@
 - IP地址: 192.168.2.1 or http://my.router
 - 用户名: admin
 - 登录密码: admin
-- WiFi名称: 2.4GHz：Padavan
+- WiFi名称: 2.4GHz: Padavan
 - WiFi名称: 5GHz: Padavan-5G
 - WiFi密码: 1234567890
